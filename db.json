@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "dsdsds",
+      "price": "3",
+      "id": 6
+    },
+    {
+      "name": "cscsc",
+      "price": 0,
+      "id": 7
+    },
+    {
+      "name": "duyy",
+      "price": "0123",
+      "id": 8
+    },
+    {
+      "name": "dytyty",
+      "price": "02332",
+      "id": 9
+    }
+  ]
+}
